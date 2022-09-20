@@ -24,7 +24,8 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  /* Cambio de color */
+  color: #24628b;
 }
 
 @media (max-width: 768px) {
